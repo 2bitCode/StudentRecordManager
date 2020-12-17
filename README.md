@@ -17,7 +17,7 @@ institution to maintain the data in the best way possible reducing human efforts
 paperwork.
 
 #### Introduction
-This project was prepared by the students of the IOE, Pulchowk Campus as it is
+This project was prepared by the students of the IOE, Pulchowk Campus 076BEI group including other three members @ tribhuwanbhatta as it is
 necessary to develop a system that can keep track of their student’s enrolment
 details. With the above aim, they should be able to have access to the information
 mentioned in real-time. This will help the management to take decisions and also
@@ -27,3 +27,5 @@ maximum knowledge and ideas gained throughout learning Object Oriented
 Programming in the project. Taking into consideration the difficulties and boredom
 in manual student database management, this system hopes to facilitate systematized
 management. The project was simple yet efficient.
+
+#### 
