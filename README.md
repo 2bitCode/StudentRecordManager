@@ -1,6 +1,6 @@
 # StudentRecordManager
 
-####Abstract
+#### Abstract
 The mini-project "Student Database Management System” aimed to provide a computerized
 interface to standardize and handle the daily activities of an institution. The key objective of
 this system is to help the institutional staffs to overcome day to day documentation problems.
@@ -16,7 +16,7 @@ entire data in a file. Overall, this project intends to lend a hand to the admin
 institution to maintain the data in the best way possible reducing human efforts and manual
 paperwork.
 
-####Introduction
+#### Introduction
 This project was prepared by the students of the IOE, Pulchowk Campus as it is
 necessary to develop a system that can keep track of their student’s enrolment
 details. With the above aim, they should be able to have access to the information
